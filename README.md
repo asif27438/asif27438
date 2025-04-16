@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design & Development
 - 🌱 I’m currently learning CMS & PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me FB: https://facebook.com/asif27438 | twitter: https://twitter.com/asif27438
+- 📫 How to reach me FB: (https://www.facebook.com/asif.4066/)
 
 <!---
 asif27438/asif27438 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
