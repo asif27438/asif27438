@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asif27438
+- 👋 Hi, I’m Asif
 - 👀 I’m interested in Web Design & Development
 - 🌱 I’m currently learning CMS & PHP
 - 💞️ I’m looking to collaborate on ...
